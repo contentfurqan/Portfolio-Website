@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #ffe4e4;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  input, textarea, button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: #ffe4e4;
+    text-align: center;
+    padding: 5px;
+  }
+  
